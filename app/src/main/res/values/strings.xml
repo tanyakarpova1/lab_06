@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">ZametkyKarpova</string>
+    <string name="new">NEW</string>
+    <string name="new">NEW</string>
+    <string name="new">NEW</string>
+    <string name="new">NEW</string>
+    <string name="new">NEW</string>
+    <string name="edit1">EDIT</string>
+    <string name="delete1">DELETE</string>
+    <string name="title">Title</string>
+    <string name="txtt">txt_title</string>
+    <string name="content">Content</string>
+    <string name="save">SAVE</string>
+    <string name="cancel">CANCEL</string>
+</resources>
